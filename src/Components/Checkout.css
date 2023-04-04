@@ -1,0 +1,28 @@
+.checkout__container{
+    display: flex;
+}
+.order__container{
+    background: white;
+    width: 80%;
+    margin: 20px 10px 20px 20px;
+    padding : 35px 20px;
+    height: fit-content;
+}
+.price{
+    padding: 20px;
+}
+small{
+    float: right;
+    position: relative;
+}
+.item__container{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    min-height: 70px;
+    
+}
+.bill__container{
+    background: #f3f3f3;
+    height: fit-content;
+    margin: 20px 20px 20px 10px;
+}
